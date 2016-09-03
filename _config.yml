@@ -1,19 +1,4 @@
-name: Cannaseur
-favicon: null
-layout_spectrum: 0.046028498094528913
 typography_spectrum: 0.009083811426535249
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#71A7FE'
@@ -25,4 +10,20 @@ color:
   lightness: 0.17315668310038745
   saturation: 0.935293099610135
   rhythmicContrast: 0.2808143622241914
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.046028498094528913
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Cannaseur
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Cannaseur Genetics
 purpose: []
